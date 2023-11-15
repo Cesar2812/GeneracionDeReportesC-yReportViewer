@@ -1,0 +1,163 @@
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\bin\Debug\Bakery_Software.exe.config
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\bin\Debug\Bakery_Software.exe
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\bin\Debug\Bakery_Software.pdb
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.Cache
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.exe
+C:\Users\Shakil\Downloads\Bakery_Software (1)\Bakery_Software\Bakery_Software\obj\Debug\Bakery_Software.pdb
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\bin\Debug\Bakery_Software.exe.config
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\bin\Debug\Bakery_Software.exe
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\bin\Debug\Bakery_Software.pdb
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.exe
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL\Bakery_Software\obj\Debug\Bakery_Software.pdb
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.exe.config
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.exe
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.pdb
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.exe
+C:\Users\Gabriel\Desktop\Clases\IES\II Sem 2022\BD I\Unidad IV\Ejemplos NET\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.pdb
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.exe.config
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.exe
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.pdb
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\EnvDTE.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\stdole.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.AssemblyReference.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.SuggestedBindingRedirects.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.exe.config
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.CoreCompileInputs.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.CopyComplete
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.exe
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con Report Viewr\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.pdb
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.exe.config
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.exe
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Bakery_Software.pdb
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\EnvDTE.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\stdole.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.AssemblyReference.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.SuggestedBindingRedirects.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.exe.config
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Form1.resources
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Properties.Resources.resources
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.Reportes.Print.resources
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.GenerateResource.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.CoreCompileInputs.cache
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.csproj.CopyComplete
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.exe
+E:\Evidencias IIparcial BaseDeDatos\Sesion de Reportes Con ReportViewer\Bakery with SQL guia\Bakery_Software\obj\Debug\Bakery_Software.pdb
